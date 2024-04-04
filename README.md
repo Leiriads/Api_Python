@@ -1,5 +1,14 @@
 # Api_Python Rest
 
+Navigate to the project directory and execute the following command:
+
+  Cmd
+  ```python manage.py runserver```
+
+This will start the Django development server.
+
+(local host)
+
 # Post
 ![api_post](https://github.com/Leiriads/Api_Python/assets/89768557/104b8e9b-6924-4906-a074-498a134f90d1)
 
